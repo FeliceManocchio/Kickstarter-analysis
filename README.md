@@ -25,6 +25,7 @@ One of the biggest challenges in this assesment was to convert the time in the d
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+
 Two conclusions that we can infer from the outcome of each campaign by start date is that in starting a campaign in May, June and July you are most likely to have a successful campaign. We can also infer that you should most likely try to stay entirely away from starting in December as it is most likely to fail if starting that month. 
 
 - What can you conclude about the Outcomes based on Goals?
